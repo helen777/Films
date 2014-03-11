@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<link rel="stylesheet" type="text/css" href="css/qwe.css">
+<title> Hello </title>
+</head>
+<body background="file://localhost/C:/Documents%20and%20Settings/User/Рабочий%20стол/wallpapers_ru_dali_1280x1024_na_vershine.jpg">
+<h1 class="qwe"> 5 лучших фильмов за историю кино </h1>
+<p
+align="center"><font size="5" color="black" face="Vernada"><strong>Побег из Шоушенка (1994)</strong></font></p>
+<p
+align="center"><font size="5" color="black" face="Vernada"><strong>Зеленая миля (1999)</strong></font></p>
+<p
+align="center"><font size="5" color="black" face="Vernada"><strong>Форрест Гамп (1994)</strong></font></p>
+<p
+align="center"><font size="5" color="black" face="Vernada"><strong>1+1 (2011)</strong></font></p>
+<p
+align="center"><font size="5" color="black" face="Vernada"><strong>Список Шиндлера (1993)</strong></font></p>
+ <h1 class="qwe"> 5 лучших фильмов 2013 года </h1>
+<style>
+#top
+{
+float:right;
+width: 20%
+}
+</style>
+<div id="top">
+<p>Гонка (2013)</p> 
+<p>Хоббит: Пустошь Смауга (2013)</p> 
+<p>Волк с Уолл-стрит (2013)</p> 
+<p>Холодное сердце (2013)</p> 
+<p>Великий Гэтсби (2013)</p>
+</div>
+</body>
+</html>
