@@ -1,0 +1,19 @@
+<!DOCTYPE HTML Public "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Головна сторінка</title>
+<meta http-equiv="Content-Language" content="ru">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<meta name="keywords" content="">
+</head>
+<body text="#27408B" bgcolor="#87CEFA" background="http://s1.goodfon.ru/image/208510-1920x1200.jpg" link="#0000FF" alink="#00FFFF" vlink="#FF00FF">
+<h1 align="center">Тимон и Пумба</h1>
+<img src="http://i2.rozetka.ua/goods/8441/ravensburger_09056-rb_8441863.jpg" usemap="#mult">
+<map name="mult">
+<area shape="square" coords="150,150,200,200" href="http://upload.wikimedia.org/wikipedia/ru/7/74/Simbaa_1.jpg" alt="Симба">
+<area shape="square" coords="400,350,600,100" href="http://cs305507.vk.me/u136368979/153993614/x_55bc5f0e.jpg" alt="Пумба">
+<area shape="square"  coords="200,300,400,150" href="http://www.disneypictures.net/data/media/178/Timon-disney.jpg" alt="Тимон">
+
+
+</body>
+</html>
