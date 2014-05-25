@@ -1,0 +1,25 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN"
+  "http://www.w3.org/TR/html4/frameset.dtd">
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=cp1251">
+  <title>Документ топового фрейма</title>
+ </head>
+<body bgcolor="#B0E2FF">
+	<h1> Топ фильмов 2014</h1>
+<p
+align="center"><font size="5" color="black" face="Vernada"><strong>Интерстеллар (2014)</strong></font></p>
+<p
+align="center"><font size="5" color="black" face="Vernada"><strong>Прежде чем я усну (2014)</strong></font></p>
+<p
+align="center"><font size="5" color="black" face="Vernada"><strong>Бёрдмен (2014)</strong></font></p>
+<p
+align="center"><font size="5" color="black" face="Vernada"><strong>Тайная служба (2014)</strong></font></p>
+<p
+align="center"><font size="5" color="black" face="Vernada"><strong>Безымянный проект Кэмерона Кроу (2014)</strong></font></p>
+
+	<a href="left.html" target="leftFrame"><h3>Топ 5 лучших фильмов</h3></a> 
+	<a href="main.html" target="mainFrame"><h2>якщо клацнути сюди, то в правому фреймі завантажиться документ</h2></a>
+
+</body>
+</html>
