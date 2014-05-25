@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    
+<title>Самые интересные списки таблиц</title>
+
+</head>
+
+<body bgcolor="EE82EE">
+
+
+<p>
+<Table border="10">
+    
+
+<caption>Лучшие фильмы в формате 3D</caption>
+    <tr>
+        <td>   1 Король Лев  </td>
+        <td>   2 Искусство полета 3D  </td>
+        <td>   3  Титаник </td>
+    </tr>
+    <tr>
+        <td>   4 Рожденные на воле   </td>
+        <td>   5 Как приручить дракона  </td>
+        <td>   6 Люди Икс: Дни минувшего будущего  </td>
+    
+    
+</tr>
+</Table>
+</p><p>
+<Table  border="10">
+    
+
+<caption>Самые ожидаемые</caption>
+
+ 
+  <COLGROUP span="1" bgcolor="red"></COLGROUP>
+  <COLGROUP span="1" bgcolor="orange"></COLGROUP>
+	<COLGROUP SPAN="2" 
+      <col span="1" bgcolor="yellow"></colgroup>
+    <tr>
+        <td>Превосходство</td>
+        <td>Порочные игры</td>
+        <td>Волк с Уолл-стрит</td>
+    </tr>
+    <tr>
+        <td>Афера по-американски</td>
+        <td>Иллюзия обмана</td>
+        <td>12 лет рабства</td>
+       
+</tr>
+</Table>
+</p>
+<p>
+<Table border="5">
+   
+
+<caption>Лучшие сериалы</caption>
+  <tfoot background="http://st.kp.yandex.net/images/film_big/178710.jpg">
+   <tr>
+        <td>Игра престолов</td>
+        <td>Друзья</td>
+        <td>Шерлок</td>
+    </tr>
+    <tr>
+        <td>Во все тяжкие</td>
+        <td>Доктор Хаус</td>
+        <td>Теория большого взрыва</td>
+    </tr>
+      
+    </tfoot>
+
+</Table>
+</p>
+<p>
+<Table  border="10">
+    
+
+<caption>Драмы </caption>
+  <colgroup span="4" width="200" align="left" valign="center" >
+    <tr>
+        <td align="center" valign="center">Побег из Шоушенка</td>
+        <td align="center" valign="center">Зеленая миля</td>
+        <td align="center" valign="center">Форрест Гамп</td>
+    </tr>
+    <tr>
+        <td align="center" valign="center">1+1</td>
+    <td align="center" valign="center">Список Шиндлера</td><td align="center" valign="center">Король Лев</td>     </tfoot>
+
+</tr>
+
+</Table>
+</p>
+<p>
+
+<Table  border="5" width="500" height="100">
+  
+  
+
+<caption>Ужасы</caption>
+   <tfoot background="http://st.kp.yandex.net/images/film_big/178710.jpg"> <tr>
+        <td colspan="2" align="center">Психо</td>
+		<td rowspan="2">Другие</td>
+    </tr>
+    <tr>
+        <td rowspan="2">Сонная Лощина</td>
+        
+        <td>Чужие</td>
+    </tr>
+    <tr>
+	    <td colspan="2">Интервью с вампиром</td>
+    
+
+  </tr>
+</Table>
+</p>
+<p>
+<Table border="10" frame="above" rules="cols"  >
+    
+
+<caption>Триллеры</caption>
+    <tr>
+     <COLGROUP span="1" bgcolor="red">    <td>Леон</td>
+        <td>Начало</td>
+        <td>Бойцовский клуб</td>
+    </tr>
+    <tr>
+  <COLGROUP span="1" bgcolor="blue">       <td>Престиж</td>
+        <td>Криминальное чтиво</td>
+        <td>Отступники</td>
+    </tr>
+    
+  </tr>
+  </style>
