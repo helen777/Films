@@ -1,0 +1,37 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN"
+  "http://www.w3.org/TR/html4/frameset.dtd">
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=cp1251">
+  <title>Документ лівого фрейма</title>
+ </head>
+<body bgcolor="#FFF68F">
+	<h3> Топ 5 лучших фильмов</h3>
+<p
+align="center"><font size="5" color="black" face="Vernada"><strong>Побег из 
+
+Шоушенка (1994)</strong></font></p>
+<p
+align="center"><font size="5" color="black" face="Vernada"><strong>Зеленая 
+
+миля (1999)</strong></font></p>
+<p
+align="center"><font size="5" color="black" face="Vernada"><strong>Форрест 
+
+Гамп (1994)</strong></font></p>
+<p
+align="center"><font size="5" color="black" face="Vernada"><strong>1+1 
+
+(2011)</strong></font></p>
+<p
+align="center"><font size="5" color="black" face="Vernada"><strong>Список 
+
+Шиндлера (1993)</strong></font></p>
+   <ul>
+      <li><a href="top-bag_bug.html" target="topFrame">ошибка</a></li>
+      <li><a href="top.html" target="topFrame">сайт</a></li>
+      <li><a href="main.html" target="mainFrame">Топ фильмов 2014</a></li>
+  
+  </ul>
+</body>
+</html>
