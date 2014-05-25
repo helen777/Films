@@ -1,0 +1,17 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN"
+  "http://www.w3.org/TR/html4/frameset.dtd">
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=cp1251">
+  <title>Документ головного фрейма</title>
+ </head>
+<body>
+	<h1> Сайт кино</h1>
+	 <ul>
+      <li><a href="top-bag_bug.html" target="topFrame">ошибка для "топ фильмов 2014"</a></li>
+      <li><a href="top.html" target="topFrame">топ фильмов 2014</a></li>
+      <li><a href="left.html" target="leftFrame">топ 5 лучших фильмов </a></li>
+      <li><a href="left_bug.html" target="leftFrame">ошибка для"топ 5 лучших фильмов"</a></li>
+  </ul>
+</body>
+</html>
